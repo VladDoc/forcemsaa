@@ -1,5 +1,5 @@
 # forcemsaa
-Enable msaa for your old linux opengl games, the way mesa devs unintended you to
+Enable MSAA for your old linux opengl games, the way mesa devs unintended you to
 
 # Usage
 ```
